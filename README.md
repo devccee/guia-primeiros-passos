@@ -21,17 +21,17 @@ fique até o final deste guia para descobrir:
 
 Plataforma tecnológica que viabiliza a integração segura entre os sistemas de informação da CCEE e os demais participantes do mercado de energia, propiciando aumento de produtividade e redução de custos e riscos operacionais, conforme figura abaixo.
 
-![Plataforma Diagrama](./img/Plataforma_Diagrama.png){width=50%}	
+![Plataforma Diagrama](./img/Plataforma_Diagrama.png)
 
 Abstraindo o conceito de "Barramento" de serviços, se você precisasse obter água do encanamento da sua casa você teria este cenário:
 
-![Encanamento CCEE](./img/EncanamentoCCEE.JPG){width=60%}	
+![Encanamento CCEE](./img/EncanamentoCCEE.JPG)
 
 ---
  
 ## Quem pode acessar a plataforma de integração?
 
-![QuemPodeUtilizar](./img/QuemPodeUtilizar.JPG) {width=50%}
+![QuemPodeUtilizar](./img/QuemPodeUtilizar.JPG) 
 
 
 Todos os agentes e não-agentes aderidos à CCEE. Caso queira consultar informações em nome de outro agente que não esteja aderido à plataforma de integração é necessário que tenha representação operacional total do agente representado.  
@@ -87,7 +87,7 @@ A CCEE utiliza apenas os atributos listados acima para realizar a autenticação
 #### Importante:
 
 
-![FormatoCertificado](./img/FormatoCertificado.JPG){width=50%}
+![FormatoCertificado](./img/FormatoCertificado.JPG)
 
 [Manual de Adesão/Atualização](https://www.ccee.org.br/documents/80415/919484/Ades%C3%A3o%20e%20Atualiza%C3%A7%C3%A3o%20Certificado%20e%20Senha%20Plataforma%20de%20Integra%C3%A7%C3%A3o%20no%20SGP_1.pdf/2cf3ef8e-16f5-2a17-9e7a-76abd25e1417).
 
