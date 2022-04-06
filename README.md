@@ -89,7 +89,7 @@ A CCEE utiliza apenas os atributos listados acima para realizar a autenticação
 
 ![FormatoCertificado](./img/FormatoCertificado.JPG)
 
-Caso não submeta o arquivo neste formato, um erro de "CERTIFICADO INVÁLIDO" na tela do SGP poderá ocorrer.
+Caso não submeta o arquivo neste formato, um erro de "CERTIFICADO EXPIRADO" na tela do SGP poderá ocorrer.
 
 [Manual de Adesão/Atualização](https://www.ccee.org.br/documents/80415/919484/Ades%C3%A3o%20e%20Atualiza%C3%A7%C3%A3o%20Certificado%20e%20Senha%20Plataforma%20de%20Integra%C3%A7%C3%A3o%20no%20SGP_1.pdf/2cf3ef8e-16f5-2a17-9e7a-76abd25e1417).
 
