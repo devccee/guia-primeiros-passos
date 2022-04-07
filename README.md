@@ -89,7 +89,7 @@ A CCEE utiliza apenas os atributos listados acima para realizar a autenticação
 
 ![FormatoCertificado](./img/FormatoCertificado.JPG)
 
-Caso não submeta o arquivo neste formato, um erro de "CERTIFICADO EXPIRADO" na tela do SGP poderá ocorrer.
+Caso não submeta o arquivo no formato binário, um erro de "CERTIFICADO EXPIRADO" na tela do SGP poderá ocorrer.
 
 [Manual de Adesão/Atualização](https://www.ccee.org.br/documents/80415/919484/Ades%C3%A3o%20e%20Atualiza%C3%A7%C3%A3o%20Certificado%20e%20Senha%20Plataforma%20de%20Integra%C3%A7%C3%A3o%20no%20SGP_1.pdf/2cf3ef8e-16f5-2a17-9e7a-76abd25e1417).
 
@@ -145,8 +145,7 @@ Os passos abaixo mostram como configurar sua chave privada no Postman:
 ## O que significa o código de perfil de agente??
 
 
-O código de perfil do agente representa o perfil do agente dentro da CCEE. O perfil é uma forma de diferenciar o tratamento atribuído na contabilização entre usinas e cargas de um mesmo agente. Por exemplo, um mesmo agente pode ter uma usina com energia incentivada e outra com energia convencional, tendo os tratamentos adequados na contabilização para tipo de energia. Já para cargas aplica-se o mesmo conceito, perfis diferentes permitem que sejam contabilizadas cargas com características diferentes, como por exemplo cargas sujeitas a desconto ou sem desconto.
-
+O código de perfil do agente representa o perfil do agente dentro da CCEE. O perfil é uma forma de diferenciar o tratamento atribuído na contabilização entre usinas e cargas de um mesmo agente. Por exemplo, um mesmo agente pode ter uma usina com energia incentivada e outra com energia convencional, tendo os tratamentos adequados na contabilização para tipo de energia. Já para cargas aplica-se o mesmo conceito, perfis diferentes permitem que sejam contabilizadas cargas com características diferentes, como por exemplo cargas sujeitas a desconto ou sem desconto. 
 + Cuidado para não confundir o código do agente com o código do perfil de agente. 
 
 Sua consulta pode ser feita através da plataforma cadastral, como também da planilha [Infomercado Dados Cadastrais](https://www.ccee.org.br/documents/80415/919444/InfoMercado_Dados_Individuais-Jan2022.xlsx/01bdd7c7-9a3a-5c46-ef6b-bcb8c48e7daa), encontrada nos documentos da [CCEE](https://www.ccee.org.br/web/guest/acervo-ccee). E através da consulta do através do serviço [Perfil Participante Mercado](https://www.ccee.org.br/documents/80415/919484/ListarPerfilParticipanteMercadoV2.pdf/da2fb02d-14e1-7a95-5663-70b83839b665).
