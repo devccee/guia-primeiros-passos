@@ -145,7 +145,8 @@ Os passos abaixo mostram como configurar sua chave privada no Postman:
 ## O que significa o código de perfil de agente??
 
 
-O código de perfil do agente representa o perfil do agente dentro da CCEE. O perfil é uma forma de diferenciar o tratamento atribuído na contabilização entre usinas e cargas de um mesmo agente. Por exemplo, um mesmo agente pode ter uma usina com energia incentivada e outra com energia convencional, tendo os tratamentos adequados na contabilização para tipo de energia. Já para cargas aplica-se o mesmo conceito, perfis diferentes permitem que sejam contabilizadas cargas com características diferentes, como por exemplo cargas sujeitas a desconto ou sem desconto. 
+O código de perfil do agente representa o perfil do agente dentro da CCEE. O perfil é uma forma de diferenciar o tratamento atribuído na contabilização entre usinas e cargas de um mesmo agente. Por exemplo, um mesmo agente pode ter uma usina com energia incentivada e outra com energia convencional, tendo os tratamentos adequados na contabilização para tipo de energia. Já para cargas aplica-se o mesmo conceito, perfis diferentes permitem que sejam contabilizadas cargas com características diferentes, como por exemplo cargas sujeitas a desconto ou sem desconto. Resumindo, o perdil é como o agente monta as suas contratações de energia.
+
 + Cuidado para não confundir o código do agente com o código do perfil de agente. 
 
 Sua consulta pode ser feita através da plataforma cadastral, como também da planilha [Infomercado Dados Cadastrais](https://www.ccee.org.br/documents/80415/919444/InfoMercado_Dados_Individuais-Jan2022.xlsx/01bdd7c7-9a3a-5c46-ef6b-bcb8c48e7daa), encontrada nos documentos da [CCEE](https://www.ccee.org.br/web/guest/acervo-ccee). E através da consulta do através do serviço [Perfil Participante Mercado](https://www.ccee.org.br/documents/80415/919484/ListarPerfilParticipanteMercadoV2.pdf/da2fb02d-14e1-7a95-5663-70b83839b665).
