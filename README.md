@@ -54,7 +54,7 @@ Para acessar os serviços por meio da Plataforma você precisará:
 
 + Liberar o firewall para comunicação com as portas 442 e 443 no endereço https://servicos.ccee.org.br/ (para o ambiente produtivo) e no endereço https://piloto-servicos.ccee.org.br/ (para o ambiente piloto).
 + Aderir à Plataforma de Integração, de acordo com o [Manual de adesão/atualização de certificado](https://www.ccee.org.br/documents/80415/919484/Ades%C3%A3o%20e%20Atualiza%C3%A7%C3%A3o%20Certificado%20e%20Senha%20Plataforma%20de%20Integra%C3%A7%C3%A3o%20no%20SGP_1.pdf/2cf3ef8e-16f5-2a17-9e7a-76abd25e1417).
-+ Utilizar o usuário e senha recebidos por e-mail após a conclusão da adesão à Plataforma de Integração;
++ Utilizar o usuário e senha cadastrados após a conclusão da adesão à Plataforma de Integração;
 + Utilizar a chave PRIVADA, geralmente possui extensão (*.pfx, *.p12, entre outras) do certificado aderido para realizar a comunicação com a CCEE;
 + Informar o código do perfil de agente.
 
